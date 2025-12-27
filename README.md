@@ -1,5 +1,43 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>      >>Strengthening Data Structures & Algorithms (C++)<br>      >>Solving problems on LeetCode / CodeStudio<br>      >>Building small projects to improve core CS skills<br><br>👯 I’m looking to collaborate on<br>      >>Beginner-friendly open-source projects<br>      >>College-level web or software development projects<br><br>🤝 I’m looking for help with<br>      >>Writing efficient DSA solutions<br>      >>Interview preparation for internships & placements<br><br>🌱 I’m currently learning   <br>      >>Advanced DSA concepts<br>      >>DBMS, OS, CN, OOPs<br>      >>Basics of Machine Learning / Web Development<br><br>💬 Ask me about<br>       >>C++ programming<br>       >>DSA problem-solving<br>       >>College project ideas<br><br>⚡ Fun fact<br>       >>I’m an introvert who loves debugging code more than talking 😄
+<h2 align="center">💫 About Me</h2>
+
+<p align="center">
+🔭 <b>I’m currently working on</b><br>
+Strengthening <b>Data Structures & Algorithms (C++)</b><br>
+Solving problems on <b>LeetCode / CodeStudio</b><br>
+Building <b>small projects</b> to improve core CS skills
+</p>
+
+<p align="center">
+👯 <b>I’m looking to collaborate on</b><br>
+Beginner-friendly <b>open-source projects</b><br>
+College-level <b>web or software development projects</b>
+</p>
+
+<p align="center">
+🤝 <b>I’m looking for help with</b><br>
+Writing <b>efficient DSA solutions</b><br>
+<b>Interview preparation</b> for internships & placements
+</p>
+
+<p align="center">
+🌱 <b>I’m currently learning</b><br>
+<b>Advanced DSA concepts</b><br>
+<b>DBMS, OS, CN, OOPs</b><br>
+Basics of <b>Machine Learning / Web Development</b>
+</p>
+
+<p align="center">
+💬 <b>Ask me about</b><br>
+<b>C++ programming</b><br>
+<b>DSA problem-solving</b><br>
+<b>College project ideas</b>
+</p>
+
+<p align="center">
+⚡ <b>Fun fact</b><br>
+I’m an introvert who loves <b>debugging code</b> more than talking 😄
+</p>
+
 
 
 # 💻 Tech Stack:
