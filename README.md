@@ -3,7 +3,7 @@
 <h3 align="center">
 🔭 <b>I'm currently working on</b><br>
 Strengthening <b>Data Structures & Algorithms (C++)</b><br>
-Solving problems on <b>LeetCode / CodeStudio</b><br>
+Solving problems on <b>LeetCode / CodeForce</b><br>
 Building <b>small projects</b> to improve core CS skills
 </h3>
 
